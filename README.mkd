@@ -2,7 +2,7 @@
 
 To get started,
 
-    $ git clone --recursive git@github.com:elchingon/infragram-js.git
-    $ cd infragram-js
-    $ make
-    $ firefox infragram.html
+    git clone --recursive git@github.com:elchingon/infragram-js.git
+    cd infragram-js
+    make
+    firefox infragram.html
